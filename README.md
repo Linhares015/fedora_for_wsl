@@ -1,14 +1,17 @@
-<img src="https://static.wixstatic.com/media/710ee0_458f30ddbbac4f5993de4d414a957f44~mv2.png/v1/fill/w_55,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo2_fw.png" height=25% width=25%>
+<img src="https://static.wixstatic.com/media/710ee0_458f30ddbbac4f5993de4d414a957f44~mv2.png/v1/fill/w_55,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo2_fw.png" height=15% width=15%>
 
 # Fedora para Windows Subsystem for Linux (WSL)
 
-Este projeto tem como objetivo disponibilizar o Fedora para o no Windows via WSL de forma gratuita.Desenvolvido por um amante de Linux e Fedora :)
+Este projeto tem como objetivo disponibilizar o Fedora para o no Windows via WSL de forma gratuita
 
-O Fedora para WSL não é endossado pelo Fedora Project ou Red Hat, Inc.
+Desenvolvido por um amante de Linux e Fedora :)
+
+*O Fedora para WSL não é endossado pelo Fedora Project ou Red Hat, Inc.*
 
 ## Instalação
 
-Baixe do repositório o arquivo .tar.gz para o seu Windows:
+Baixe do repositório o arquivo .tar.gz para o seu Windows.
+
 Agora, você pode importar o arquivo .tar.gz para o WSL usando o comando `wsl --import`.
 
 ### Documentação geral sobre WSL e Fedora:
@@ -17,7 +20,6 @@ Agora, você pode importar o arquivo .tar.gz para o WSL usando o comando `wsl --
 - [Documentação do Usuário do Fedora 38](https://docs.fedoraproject.org/en-US/fedora/f38/)
 - [Fedora Project Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
 - [Fedora Project IRC](https://fedoraproject.org/wiki/IRC)
-- [Como reportar um bug no Fedora Project](https://fedoraproject.org/wiki/How_to_file_a_bug_report)
 - [Pesquisa de Pacotes Fedora](https://apps.fedoraproject.org/packages/)
 - [DNF](https://fedoraproject.org/wiki/DNF) (Gerenciador de pacotes do Fedora)
 
