@@ -1,4 +1,4 @@
-<img src="https://static.wixstatic.com/media/710ee0_458f30ddbbac4f5993de4d414a957f44~mv2.png/v1/fill/w_55,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo2_fw.png" height=15% width=15%>
+<img src="https://static.wixstatic.com/media/710ee0_458f30ddbbac4f5993de4d414a957f44~mv2.png/v1/fill/w_55,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo2_fw.png" height=10% width=10%>
 
 # Fedora para Windows Subsystem for Linux (WSL)
 
